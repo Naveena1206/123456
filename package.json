@@ -1,0 +1,25 @@
+{
+  "name": "123456",
+  "version": "1.0.0",
+  "description": "npm init",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "naveena": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naveena1206/123456.git"
+  },
+  "author": "Naveena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naveena1206/123456/issues"
+  },
+  "homepage": "https://github.com/Naveena1206/123456#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.3"
+  }
+}
